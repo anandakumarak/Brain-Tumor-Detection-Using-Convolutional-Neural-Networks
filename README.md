@@ -37,7 +37,7 @@
   <h2>Usage</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/A-ANANDA-KUMAR/BRAIN-TUMOR-DETECTION-USING-DEEP-LEARNING.git</code></pre>
+      <pre><code>https://github.com/anandakumarak/Brain-Tumor-Detection-Using-Convolutional-Neural-Networks.git</code></pre>
     </li>
     <li>Install the required dependencies:
       <pre><code>pip install numpy matplotlib opencv-python tensorflow scikit-learn pillow</code></pre>
